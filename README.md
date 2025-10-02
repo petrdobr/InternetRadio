@@ -3,4 +3,4 @@
 
 Исходный код и библиотеки для проекта "Интернет-радио" в клубе юных инженеров "Тесла".
 
-[Подробное описание проекта и ссылки](https://github.com/petrdobr/InternetRadio/blob/main/Description.md)
+[Подробное описание проекта и ссылки](https://github.com/petrdobr/InternetRadio/blob/main/description.md)
